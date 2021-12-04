@@ -1,0 +1,22 @@
+plugins {
+    id 'com.android.library'
+}
+
+android {
+    defaultConfig {
+        minSdk 21
+        targetSdk 31
+
+    }
+
+
+    compileSdkVersion 31
+}
+
+dependencies {
+
+
+
+    implementation 'androidx.appcompat:appcompat:1.4.0'
+    testImplementation 'junit:junit:4.13.2'
+}

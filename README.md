@@ -5,10 +5,10 @@ ViewMore library allows you to collapse and expand Textview w.r.t to number of l
 Please see the sample app for the usage
 
 You can copy or call the **ViewMore** in to your project and use as shown below
-<!--
+##
  The lib Method contains parms -- 
 public static void load(TextView textView, String text, Typeface typeface,boolean isUnderline,int number_of_lines,boolean expand_click_for_end_text_only)
-    { -->
+    { ##
 
 
 

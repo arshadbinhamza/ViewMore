@@ -16,10 +16,11 @@ public static void load(TextView textView, String text, Typeface typeface,boolea
      //        ViewMoreHolder.load(textView_description,text, Typeface of end Text,UnderLine,number_of_lines,click_for_end_text_only);
       //  ViewMoreHolder.load(tv_description,description, Typeface.DEFAULT,true,3,false);
  
- #TextView tv_description = findViewById(R.id.tv_description);
+ #
+TextView tv_description = findViewById(R.id.tv_description);
  ViewMoreHolder.load(tv_description,description, null,false,3,true);
- #       
-    
+       
+ #   
 
 
 

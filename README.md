@@ -57,16 +57,18 @@ Step 2. Add the dependency
 ##
 The lib Method contains parms --
 public static void load(TextView textView, String text, Typeface typeface,boolean isUnderline,int number_of_lines,boolean expand_click_for_end_text_only)
-{ ##
+{ 
+<br>
+}
 
 
-
+<br>
 
      //        ViewMoreHolder.load(textView_description,text, Typeface of end Text,UnderLine,number_of_lines,click_for_end_text_only);
       //  ViewMoreHolder.load(tv_description,description, Typeface.DEFAULT,true,3,false);
 
 #
-TextView tv_description = findViewById(R.id.tv_description);//
+TextView tv_description = findViewById(R.id.tv_description);<br>
 ViewMoreHolder.load(tv_description,description, null,false,3,true);
 
 #   

@@ -1,4 +1,4 @@
-package com.abh.viewmore;
+package com.abh.viewmore.library;
 
 import android.content.Context;
 import android.content.res.Resources;
@@ -7,6 +7,8 @@ import android.text.SpannableStringBuilder;
 import android.text.method.LinkMovementMethod;
 import android.view.View;
 import android.widget.TextView;
+
+import com.abh.viewmore.library.R;
 
 public class ViewMoreHolder {
 

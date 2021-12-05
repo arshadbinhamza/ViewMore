@@ -1,4 +1,4 @@
-package com.abh.viewmore;
+package com.abh.viewmore.library;
 
 import android.graphics.Color;
 import android.graphics.Typeface;

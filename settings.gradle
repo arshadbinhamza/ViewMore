@@ -8,5 +8,6 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "ViewMoreSample"
-include ':app'
 include ':Library'
+include ':app'
+
